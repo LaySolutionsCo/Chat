@@ -175,7 +175,7 @@ if (!$conn) {
     </style>
 </head>
 <header>
-    <a class="button" href="/déconnexion.php">
+    <a class="button" href="/logout.php">
         Déconnexion
     </a>
 </header>
